@@ -10,6 +10,7 @@ How to use this WebRTC Chat Room Application ?
 ==============================================
 Run server 
  -> node server.js
+ 
 Run client
  -> Open index.html page in browser
 
@@ -20,6 +21,8 @@ Run client
 To get more support
 ===================
 Watch Youtube videos for the explanations
+
 1. Server side :
-2. Client side :  
+
+3. Client side :  
 
