@@ -25,7 +25,10 @@ To get more support
 ===================
 Watch Youtube videos for the explanations
 
-1. Server side :
+1. Server side : 
+https://www.youtube.com/watch?v=dPta24gZNYE
 
-3. Client side :  
+2. Client side : 
+https://www.youtube.com/watch?v=IKLaW8XhIzk
+https://www.youtube.com/watch?v=FrsI6xnz1LY
 
